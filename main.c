@@ -13,7 +13,7 @@ int main() {
   int red;
   int white;
 
-  /* Allocate the image: 64 pixels across by 64 pixels tall */
+  /* Allocate the image: 500 pixels across by 200 pixels tall */
   im = gdImageCreate(500, 200);
 
   /* Allocate the color black (red, green and blue all minimum).
